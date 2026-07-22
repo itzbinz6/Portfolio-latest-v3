@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abisolaajayi0.vercel.app/sitemap.xml
